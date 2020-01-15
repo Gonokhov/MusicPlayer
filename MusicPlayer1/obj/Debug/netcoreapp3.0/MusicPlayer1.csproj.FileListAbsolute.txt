@@ -1,0 +1,42 @@
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MusicPlayer1.exe
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1_MarkupCompile.cache
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1_MarkupCompile.lref
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1.g.resources
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1.AssemblyInfo.cs
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1.pdb
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MusicPlayer1.deps.json
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MusicPlayer1.runtimeconfig.json
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MusicPlayer1.runtimeconfig.dev.json
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MusicPlayer1.dll
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MusicPlayer1.pdb
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MaterialDesignColors.dll
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\App.baml
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1.csproj.CopyComplete
+C:\Users\User\Desktop\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1.dll
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MusicPlayer1.exe
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MusicPlayer1.deps.json
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MusicPlayer1.runtimeconfig.json
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MusicPlayer1.runtimeconfig.dev.json
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MusicPlayer1.dll
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MusicPlayer1.pdb
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MaterialDesignThemes.Wpf.dll
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1.csprojAssemblyReference.cache
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\App.g.cs
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1_MarkupCompile.cache
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1_MarkupCompile.lref
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\App.baml
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1.g.resources
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1.AssemblyInfoInputs.cache
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1.AssemblyInfo.cs
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1.csproj.CopyComplete
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1.dll
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\obj\Debug\netcoreapp3.0\MusicPlayer1.pdb
+D:\VS Project's\sts\MusicPlayer1\MusicPlayer1\bin\Debug\netcoreapp3.0\MaterialDesignColors.dll
